@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Basic koding - Python
+Her kan du lese om basic koding på norsk / norwenglish.
 
-You can use the [editor on GitHub](https://github.com/elsandb/koding/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Om meg:**  
+Jeg begynte å lære koding for noen dager siden, og lager denne nettsiden fordi jeg 
+ikke kan nok koding til å lage det jeg vil.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Kom i gang med koding på en veldig enkel måte
+Gå inn på [replit.com](https://replit.com/) og opprett en konto gratis. Når du har 
+kommet inn på siden din - klikk på + tegnet øverst til høyre. Klikk på "Python" under 
+"Official Languages", og så skriver du inn det du vil kalle ditt første prosjekt 
+(f.eks. "Mitt_første_prosjekt"). Klikk på "create Repl" --- og du er i gang!
 
-### Markdown
+Du får opp to bokser. I den ene står det "1 Not sure...". Det er her du skal skrive koden din.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+(1) Skriv følgende: 
+```python
+print("Hello world!")
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+(2) Trykk på kanppen der det står "Run" (grønn knapp helt øverst på siden).
+Kom det noe opp i den andre boksen (den som heter "Console")?
 
-### Jekyll Themes
+`Hello world!`  
+Sånn! Nå er du en del av gjengen.
+---
+#### Liste i md:
+- To do 1
+- To do 2
+- To do 3
+---
+1. Hei
+   1. Hallo
+   2. Velkommen
+2. Hade
+___
+#### Tabell i md
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elsandb/koding/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+| **Dyr** | **Naturfenomen** | **Navn**   |     |
+|---------|--------------|------------|-----|
+| Bjørn   | Regn         | Bjørneregn |     |
+| Bever   | Lyn          | Beverlyn   |     |
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
